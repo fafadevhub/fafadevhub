@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @LealDevhub
 - 👀 I’m interested in enter the field of information technology
-- 🌱 I'm currently learning programming at rocketseat  
+- 🌱 I'm currently learning programming at Alura  
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me: @lealdev on instagram
 
